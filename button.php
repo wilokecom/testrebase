@@ -1,5 +1,5 @@
 <?php
 
-function returnButtom() {
+function returnButtom1() {
 	return 'ABC';
 }
